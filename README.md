@@ -5,7 +5,7 @@ Special Thanks:
 # Web App Version:
 ![](http://i2.buimg.com/572691/46375e30d1df38eb.jpg)
 ![](http://i2.buimg.com/572691/682afd3408f74e7c.jpg)
-##Click to run
+##Click to play:
 >* https://joname1.github.io/moha
 
 # Android App Version:
